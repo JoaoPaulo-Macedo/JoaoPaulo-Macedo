@@ -4,6 +4,12 @@
 [![instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/macedo.722/)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JoaoPauloFlutter)
 
+* Flutter Developer. :iphone:
+* 8 months of Flutter experience on job market.
+* 3 months of Laravel and Back-end experience on job market.
+* Open to Work. :muscle:
+* Open to contact. :wave:
+
 <!--
 **JoaoPaulo-Macedo/JoaoPaulo-Macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

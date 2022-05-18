@@ -1,4 +1,8 @@
-### Hi there 👋
+# João Paulo :computer:
+
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulo-macedo/)
+[![instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/macedo.722/)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JoaoPauloFlutter)
 
 <!--
 **JoaoPaulo-Macedo/JoaoPaulo-Macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

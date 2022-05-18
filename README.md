@@ -9,6 +9,7 @@
 * 3 months of Laravel and Back-end experience on job market.
 * Open to Work. :muscle:
 * Open to contact. :wave:
+* Intermediate/Advanced English. :speech_balloon:
 
 <!--
 **JoaoPaulo-Macedo/JoaoPaulo-Macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

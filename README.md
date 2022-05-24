@@ -11,7 +11,7 @@
 * Aberto para contato. :wave:
 * Inglês intermediário/avançado. :speech_balloon:
 ---
-Tenho dois projetos publicados, um com Mobx e outro com Cubit (BLoC), ambos com arquitetura Clean Dart. <br><br>
+Tenho dois projetos publicados, um com Mobx e outro com Cubit (BLoC), ambos com arquitetura Clean Dart (Clean Architecture). <br><br>
 Algumas experiências:
 * Armazenamento de dados com SQLite (sqflite package) e shared_preferences.
 * Integração Firebase.

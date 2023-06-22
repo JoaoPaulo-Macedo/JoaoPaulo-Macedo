@@ -5,10 +5,6 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JoaoPauloFlutter)
 
 * Desenvolvedor Flutter. :iphone:
-* 8 meses de experiência em Flutter no mercado de trabalho.
-* 3 meses de experiência em Laravel e Backend no mercado de trabalho.
-* Open to Work. :muscle:
-* Aberto para contato. :wave:
 * Inglês intermediário/avançado. :speech_balloon:
 ---
 Tenho dois projetos publicados, um com Mobx e outro com Cubit (BLoC), ambos com arquitetura Clean Dart (Clean Architecture). <br><br>
